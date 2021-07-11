@@ -38,7 +38,7 @@ while True:
 
         # print(fingers)
         totalFingers = fingers.count(1)
-        print(totalFingers)
+        # print(totalFingers)
 
         img[0:180,0:130] = OverlayFingerImages[totalFingers-1]
     cTime = time.time()
