@@ -28,7 +28,8 @@ python Counter.py
 **Make sure** you have a webcam attached to your device.
 
 ## Here's an output demo.
-![Result](https://i.imgur.com/ns0VOeJ.gifv)
+![Result](./demo.gif)
+
 **The performance of the program depends on CPU**
 
  
